@@ -1,5 +1,6 @@
 <?php
-// modifications made from master branch.
+//third git change from master branch
+//second git change from different branch
 //first git init
 phpinfo();
 ?>
