@@ -1,6 +1,4 @@
 <?php
-//third git change from master branch
-//second git change from different branch
-//first git init
+// new modifications from damoTestBranch, i want damoTestBranch mods to stay in the file desipte whatever master changes happend.
 phpinfo();
 ?>
